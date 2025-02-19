@@ -1,104 +1,83 @@
-- 👋 Hi, I’m @ly2351
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi there, I'm 纣王 👋</h1>
 
-<!---
-ly2351/ly2351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Hi there 👋, I'm [Aman](https://github.com/aman-atg) 👨‍💻
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://t.me/amanatg0">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:aman.atg001@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-<br/>
-
-<p>
-A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled JS Developer with good debugging skills.
-<br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
-<br/>  
-Things I have recently experimented with : socket.io, react-cli , commander, inquirer , gsap(animation) and a lot of other ui-libs...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+<p align="center">
+🚀 全栈技术工程师 | 💻 专注于 Web & 小程序开发 | 📚 持续学习 & 分享  
 </p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-  
-### ✨ Quick Facts
+---
 
-- 👨🏽‍💻 I’m currently working @Learnifii (React.js Dev.)
-- 🌱 I’m currently learning React-Native and Animation
-- 🤔 I’m looking for help for my future MERN projects
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-- ⚡️ Fun-Fact: I sleep at 6am 🙃
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Thinking about writing blogs 🤔🤖..
-- 📫 How to reach me: aman.atg001@gmail.com
-- 📝 [Resume](https://www.canva.com/design/DAD8JlnPFhw/3v-OrtVl-UETeMGVfscAgQ/view?) (old)
+### 🌟 **关于我**
+- 🎯 目前专注于 **uni-app + Vue3 + Vite** 开发小程序  
+- 💡 热衷于探索 **前端、后端、DevOps**，追求 **高效 & 工程化** 解决方案  
+- 🔍 关注 **分布式调度、微服务架构、数据库优化**  
+- 🎨 喜欢 **CSS 动画、UI 组件库**，希望能做出更美观的界面  
+- ✨ 热爱开源，欢迎交流 & 贡献代码  
 
-### 🛠️ Languages and Tools:
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+### 🔧 **技术栈**
+#### **💻 前端**
+![Vue](https://img.shields.io/badge/Vue-3.2-green?style=flat&logo=vue.js)  
+![Vite](https://img.shields.io/badge/Vite-^4.x-blueviolet?style=flat&logo=vite)  
+![Uni-app](https://img.shields.io/badge/UniApp-%E5%B0%8F%E7%A8%8B%E5%BA%8F-orange?style=flat)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%5E5.x-blue?style=flat&logo=typescript)  
+![UnoCSS](https://img.shields.io/badge/UnoCSS-%E9%AB%98%E6%80%A7%E8%83%BD%E9%A2%9C%E8%89%B2%E5%B8%83%E5%B1%80-ff69b4?style=flat)
 
+#### **🚀 后端**
+![.NET](https://img.shields.io/badge/.NET-8-blueviolet?style=flat&logo=dotnet)  
+![Java](https://img.shields.io/badge/Java-17-orange?style=flat&logo=java)  
+![Node.js](https://img.shields.io/badge/Node.js-^18-green?style=flat&logo=node.js)  
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-%E8%B0%83%E5%BA%A6%E6%A1%86%E6%9E%B6-blue?style=flat)  
+![NPOI](https://img.shields.io/badge/NPOI-Excel%20%E6%93%8D%E4%BD%9C-green?style=flat)
 
-### 👣 Next Steps
+#### **📦 数据库**
+![MySQL](https://img.shields.io/badge/MySQL-%5E8.x-blue?style=flat&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%5E15-blue?style=flat&logo=postgresql)  
+![SQL Server](https://img.shields.io/badge/SQLServer-2019-red?style=flat&logo=microsoft-sql-server)  
+![Redis](https://img.shields.io/badge/Redis-%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98-red?style=flat&logo=redis)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%E6%95%B0%E6%8D%AE%E5%BA%93-green?style=flat&logo=mongodb)
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
+#### **☁️ DevOps**
+![Docker](https://img.shields.io/badge/Docker-%5E24-blue?style=flat&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86-blue?style=flat&logo=kubernetes)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-success?style=flat&logo=githubactions)
 
-❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](https://paypal.me/amanatg)
+---
 
-❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Aman_Ansari-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/amanatg0)
+### 🔥 **GitHub 统计**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ly2351&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:aman.atg001@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ly2351&theme=tokyonight&hide_border=true" />
+</p>
 
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
-and be a part of my journey... and See if I can make it or not!
+---
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
+### 📌 **精选项目**
+🚀 [**uni-app 小程序**](https://github.com/你的GitHub用户名/你的项目) - Vue3 + Vite + UnoCSS 小程序开发  
+🛠 [**Quartz.NET 调度工具**](https://github.com/你的GitHub用户名/你的项目) - Quartz.NET 任务调度封装  
+📊 [**个人知识库**](https://github.com/你的GitHub用户名/你的知识库) - 记录学习 & 实践  
 
-<hr/>
+---
 
-⭐️ From [aman-atg](https://github.com/aman-atg)
+### 📢 **最近动态**
+<!-- GitHub Activity -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ly2351&theme=github-dark" />
+</p>
+
+---
+
+### 📮 **联系我**
+- 📘 **个人博客：** [你的博客地址](https://你的博客.com)  
+- 📧 **Email：** [你的邮箱]  
+- 💬 **微信/QQ：**（如果想公开的话）  
+
+---
+
+### 🎯 **访客统计**
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ly2351&left_color=blue&right_color=green" />
+</p>
